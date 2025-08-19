@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="banner">
+        <h2>🚀 Welcome to the Ultimate Quiz!</h2>
+        <p>Test your knowledge and challenge yourself!</p>
+      </div>
+      <div id="quiz-container">
+        <div id="question-container" class="hidden card">
+          <h2 id="question-text"></h2>
+          <ul id="choices-list"></ul>
+          <button id="next-btn" class="btn hidden">Next ➡️</button>
+        </div>
+        <div id="result-container" class="hidden card">
+          <h2>🎉 Quiz Completed!</h2>
+          <p id="score"></p>
+          <button id="restart-btn" class="btn">🔄 Restart Quiz</button>
+        </div>
+        <button id="start-btn" class="btn start">🚀 Start Quiz</button>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
