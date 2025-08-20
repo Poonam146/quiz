@@ -1,4 +1,4 @@
-d🌙 Quiz App (Dark Mode)
+ Quiz App 
 
 A beautiful dark-mode Quiz Application built using HTML, CSS, and
 JavaScript.
@@ -13,12 +13,6 @@ It is fully responsive, modern, and interactive with smooth UI effects.
 -   ✅ Interactive Question & Answer System
 -   ✅ Score tracking at the end
 -   ✅ Mobile-friendly design
-
-------------------------------------------------------------------------
-
-🖼️ Preview
-
-[Quiz App Screenshot]
 
 ------------------------------------------------------------------------
 
@@ -45,7 +39,7 @@ It is fully responsive, modern, and interactive with smooth UI effects.
 
 1.  Clone this repo
 
-        git clone https://github.com/your-poonam146/quiz-app.git
+        git clone https://github.com/poonam146/quiz-app.git
 
 2.  Open index.html in your browser
 
